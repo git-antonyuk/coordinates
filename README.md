@@ -2,7 +2,8 @@
 
 Clone project: 
 ```cmd
-git clone 'repo'
+git clone https://github.com/git-antonyuk/coordinates.git
+cd ./coordinates
 ```
 
 ### Server
